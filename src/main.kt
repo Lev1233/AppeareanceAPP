@@ -48,7 +48,7 @@ object AppAppearance {
     }
 
     private fun showGistopgram()  {
-
+        println("Gistogramm :")
     }
 
 
